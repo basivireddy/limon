@@ -20,6 +20,8 @@ A **light-weight** and simple **live** monitoring tool for **real-time monitorin
 docker run -it -d --name limon basivireddy/limon:latest
 
 ```
+ UI : http://your_server_ip/limon/
+
 
 ## Installation
 
